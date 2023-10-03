@@ -1,3 +1,3 @@
 # ml_atv_2
 
-Atividade de aprendizado supervisionado
+Classificação de um conjunto de dados sobre um exame ocular
